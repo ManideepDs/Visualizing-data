@@ -4,3 +4,5 @@ The dataset is from  DOHMH’s (Department of Health and Mental Hygiene) New Yor
 
 # [Link to Dataset](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/data) 
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
